@@ -1,0 +1,25 @@
+{
+  "name": "eslint-plugin-expect-type-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint src/*.ts"
+  },
+  "keywords": [
+    "eslint-plugin-expect-type",
+    "expect-type",
+    "eslint",
+    "typescript-eslint",
+    "dtslint"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.33.0",
+    "@typescript-eslint/parser": "^4.33.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-expect-type": "^0.0.6",
+    "typescript": "^4.4.3"
+  }
+}
